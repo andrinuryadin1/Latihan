@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lajnah Imtihan</title>
+        <link rel="stylesheet" href="style/Gaya.css">
+        <meta name="viewport" content="width-device-width, initial-scale=1">
+        <meta charset="UTF-8"/>
+    </head>
+</html>
+
+<body>
+    <header class="navbar-container">
+        <div class="logo">
+            <img src="asset/UJIAN WEB.png" alt="Lajnah Imtihan" />
+        </div>
+    <nav class="nav-list">
+        <ul> 
+            <li><a href="Tentang">Tentang</a></li>
+            <li><a href="Team">Team</a></li>
+            <li><a href="Kontak">Kontak</a></li>
+        </ul>
+    </nav>
+    </header>
+    <main>
+        <div id="content">
+            <div id="content-description">
+                <h1 class="title">Lajnah Imtihan</h1>
+                <p>Lajnah Imtihan adalah sebuah organisasi yang berjalan dibawah naungan Divisi Qur'an Kuttab Al-Fatih Bandung
+                    yang bertugas untuk mengorganisir aktifitas ke al-Quranan di Kuttab Al-Fatih Bandung dengan mencakup tiga aktifitas utama.
+                    yaitu Ujian Qu'ran, Tasmi' hari Jum'at dan Syahadah. 
+                    Semoga dengan hadirnya Lajnah Imtihan ini bisa membuat sistem yang baik guna aktifitas yang ada di Kuttab Al-Fatih Bandung bisa berjalan dengan lancar. 
+                </p>
+                <button>Ta'aruf</button>
+            </div>
+        <div id="content-image">
+            <img src="asset/Logo LI22.png" alt="Lajnah Imtihan">
+        </div>
+    </main>
+    <main>
+        <div class="content">
+            <article id="Tentang" class="card">
+            <header>
+            <figure>
+                <h2>Tentang</h2>
+                <img src="asset/santrinews.jpg" alt="Tentang" class="featured-image">
+                <p>Lajnah Imtihan merupakan istilah dalam bahasa Arab yang secara harfiah dapat diterjemahkan sebagai "komite ujian" atau "badan pengujian". Istilah ini sering digunakan dalam konteks pendidikan, terutama di negara-negara yang menggunakan bahasa Arab sebagai bahasa utama.
+                Lajnah Imtihan biasanya merujuk pada badan atau lembaga yang bertanggung jawab untuk menyusun, mengawasi, dan melaksanakan ujian atau tes bagi siswa atau peserta dalam suatu sistem pendidikan. Lajnah Imtihan dapat beroperasi di tingkat sekolah, tingkat regional, atau tingkat nasional, tergantung pada struktur dan kebijakan pendidikan yang berlaku di suatu negara.
+                Tugas utama Lajnah Imtihan adalah merancang kurikulum ujian, menyusun soal-soal ujian, mengawasi pelaksanaan ujian, mengoreksi dan menilai jawaban peserta, serta mengeluarkan hasil dan sertifikat ujian. Mereka memiliki peran penting dalam menentukan pencapaian dan evaluasi prestasi siswa atau peserta.
+                Namun, perlu diingat bahwa setiap negara atau sistem pendidikan dapat memiliki struktur dan istilah yang berbeda dalam menjalankan proses ujian dan pengujian. Oleh karena itu, penting untuk mengacu pada konteks negara atau sistem pendidikan tertentu ketika membahas Lajnah Imtihan.
+                </p>
+            </figure>
+            </header>
+            </article>
+            
+            <article id="Team" class="card">
+                <h2 id="Team">Team</h2>
+                <h3>Team Lajnah Imtihan Kuttab Al-Fatih Bandung</h3>
+                <p>Dengan beranggotakan 4 orang semoga menjadi pembawa keberkahan Lajnah Imtihan</p>
+                <table>
+                    <tr>
+                        <th>Nama Team</th>
+                        <th>Jabatan</th>
+                    </tr>
+                    <tr>
+                        <th>Rikihans</th>
+                        <td>Ketua Umum</td>
+                    </tr>
+                    <tr>
+                        <th>Andri</th>
+                        <td>Syahadah</td>
+                    </tr>
+                    <tr>
+                        <th>Indriani</th>
+                        <td>Database</td>
+                    </tr>
+                    <tr>
+                        <th>Sani</th>
+                        <td>Tasmi'</td>
+                    </tr>
+                </table>
+        </div>
+        <aside>
+            <article class="profile card">
+                <h2>Informasi Pribadi</h2>
+                <figure>
+                    <img src="asset/andri1.jpg">
+                    <figcaption>Andri Nuryadin</figcaption>
+                    <p>Asal Kota Bandung</p>
+                </figure>
+        </aside>
+    </main>
+    <main>
+        <footer>
+            <p>&copy;Tugas Akhir Membuat Website &dash; Andri Nuryadin &bull;</p>
+        </footer>
+    </main>
+</body>
